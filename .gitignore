@@ -1,2 +1,4 @@
 .project
 *.epub
+out
+.DS_Store
